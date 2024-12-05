@@ -300,3 +300,29 @@ header .social-container img {
     margin-right: 26px;
     mix-blend-mode: difference;
 }
+
+.banner {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .banner h1 {
+    font-size: 2rem;
+    color: #fff;
+    margin-bottom: 10px;
+  }
+  
+  .banner h2 {
+    font-size: 1.5rem;
+    color: #fff;
+    margin: 10px 0;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: color 0.3s ease;
+  }
+  
+  .banner h2:hover {
+    color: #6a11cb; /* Change the color when hovered */
+  }
+  
